@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/asifmehmood101.lwc-l1kxfyyc-fork-l1kxhzl6",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PCv8kpnsVAaoW42e5QsK --open"
+  }
+}
